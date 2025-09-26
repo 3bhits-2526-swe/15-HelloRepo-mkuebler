@@ -4,3 +4,8 @@
 
 Habe 1x Clone ausgeführt ändere ReadMe und pushe zurück, jetzt möchte ich die online Änderung auch lokal haben. In VS-Code lokal geändert.
 
+
+
+     Aenderungen durchgefuehrt
+
+  
